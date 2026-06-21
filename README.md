@@ -108,7 +108,7 @@ A repository documenting my journey in Python, AI applications, AI-assisted engi
 
 ## Philosophy
 
-I believe quality is not a phase of development—it is a mindset that should be embedded throughout the software lifecycle. As software engineering evolves through AI-assisted development, my goal is to stay at the intersection of Quality Engineering, Automation, and Artificial Intelligence.
+I believe quality is not a phase of development. It is a mindset that should be embedded throughout the software lifecycle. As software engineering evolves through AI-assisted development, my goal is to stay at the intersection of Quality Engineering, Automation, and Artificial Intelligence.
 
 ## Connect
 
