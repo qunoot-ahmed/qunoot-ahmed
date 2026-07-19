@@ -1,6 +1,6 @@
 # Hi, I'm Qunoot Ahmed
 
-Senior Quality Engineer with 7+ years of experience in Software Quality Assurance, Test Automation, API Testing, CI/CD, and Quality Engineering.
+Senior Quality Engineer with 9+ years of experience in Software Quality Assurance, Test Automation, API Testing, CI/CD, and Quality Engineering.
 
 My background spans enterprise software testing, automation architecture, release validation, quality strategy, and agile delivery. I am passionate about building reliable software and continuously expanding my expertise in Python, AI-powered applications, agentic workflows, and Spec Driven Development (SDD) to align with the future of software engineering.
 
