@@ -95,6 +95,13 @@ A repository documenting my journey in Python, AI applications, AI-assisted engi
 * Appium Mobile Automation Training
 * Web Application Penetration Testing Fundamentals
 
+## Technical Writing
+
+I write about practical QA engineering, test automation, and tools that improve testing efficiency.
+
+- [How Manual QA Engineers Can Automate Repetitive Tests with Claude and Playwright MCP](https://medium.com/syntest/how-manual-qa-engineers-can-automate-repetitive-tests-with-claude-and-playwright-mcp-b3d47b1210ec)
+- [Testing Stripe Metered Billing: A Practical QA Guide](https://medium.com/syntest/how-to-test-stripe-qa-guide-to-billing-and-webhooks-d904b67310d7)
+
 ## Current Learning Roadmap
 
 ### 2026 Focus
