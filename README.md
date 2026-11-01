@@ -4,6 +4,42 @@ Senior Quality Engineer with 10+ years of experience in Software Quality Assuran
 
 My background spans enterprise software testing, automation architecture, release validation, quality strategy, and agile delivery. I am passionate about building reliable software and continuously expanding my expertise in Python, AI-powered applications, agentic workflows, and Spec Driven Development (SDD) to align with the future of software engineering.
 
+---
+
+## Featured Project: RiskPilot | Test Enablement
+
+**Explainable Test Impact Analysis | TypeScript | Vitest | Playwright | GitHub Actions**
+
+I developed **RiskPilot**, a Test Enablement proof of concept that analyzes code changes, traces dependencies, and identifies potentially impacted automated tests.
+
+The objective is to make regression testing more efficient, explainable, and risk-aware without compromising quality.
+
+### Watch the Test Enablement POC
+
+[![RiskPilot Test Enablement Showcase](media/riskpilot/riskpilot-showcase-thumbnail.png)](media/riskpilot/riskpilot-showcase.mp4)
+
+**[Watch the 37-second demonstration](media/riskpilot/riskpilot-showcase.mp4)**
+
+### Verified Results
+
+- **13 of 29 test files recommended** for a targeted source-code change.
+- **55.2% fewer test files recommended** in the selective-analysis demonstration.
+- **29 of 29 test files recommended** when a configuration change triggered a full-suite fallback.
+- **GitHub Actions integration** with explainable selection reasons and downloadable reports.
+- **Safety-first execution:** All existing regression jobs continue running in full while RiskPilot operates in observation mode.
+
+### Engineering Approach
+
+**Git Diff → Dependency Analysis → Test Ownership Mapping → Safety Rules → Explainable Test Recommendations**
+
+The POC demonstrates how Test Enablement can improve regression test selection through dependency awareness, conservative fallback rules, and transparent engineering decisions.
+
+*The 55.2% figure represents fewer test files recommended, not measured CI execution-time savings.*
+
+**[Source Code](https://github.com/qunoot-ahmed/riskpilot)** | **[Selective Analysis Evidence](https://github.com/qunoot-ahmed/the-unsaid-app/actions/runs/41323957560)** | **[Full-Suite Fallback Evidence](https://github.com/qunoot-ahmed/the-unsaid-app/actions/runs/41301900607)**
+
+---
+
 ## Core Expertise
 
 * Test Automation Architecture
