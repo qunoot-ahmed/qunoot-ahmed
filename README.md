@@ -17,7 +17,7 @@ The objective is to make regression testing more efficient, explainable, and ris
 
 [![RiskPilot Test Enablement Showcase](riskpilot-showcase-thumbnail.png)](https://github.com/user-attachments/assets/1768b219-7926-4111-8209-c319f975d802)
 
-**[Watch the 37-second demonstration](https://github.com/user-attachments/assets/1768b219-7926-4111-8209-c319f975d802)**
+**[▶ Watch the 37-second demonstration](https://github.com/user-attachments/assets/1768b219-7926-4111-8209-c319f975d802)**
 
 
 ### Verified Results
