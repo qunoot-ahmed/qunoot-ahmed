@@ -15,9 +15,9 @@ The objective is to make regression testing more efficient, explainable, and ris
 
 ### Watch the Test Enablement POC
 
-[![RiskPilot Test Enablement Showcase](media/riskpilot/riskpilot-showcase-thumbnail.png)](media/riskpilot/riskpilot-showcase.mp4)
+[![RiskPilot Test Enablement Showcase](https://github.com/qunoot-ahmed/qunoot-ahmed/blob/main/riskpilot-showcase-thumbnail.png)
 
-**[Watch the 37-second demonstration](media/riskpilot/riskpilot-showcase.mp4)**
+**[Watch the 37-second demonstration](https://github.com/qunoot-ahmed/qunoot-ahmed/blob/main/riskpilot-showcase.mp4)**
 
 ### Verified Results
 
